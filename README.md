@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aamod81/DSA-LC/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aamod81/DSA-LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aamod81/DSA-LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
@@ -15,5 +16,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aamod81/DSA-LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aamod81/DSA-LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
