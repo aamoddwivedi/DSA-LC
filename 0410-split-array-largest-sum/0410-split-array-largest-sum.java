@@ -15,7 +15,7 @@ class Solution {
                     sum =  num;
                     pieces++;
                 }else{
-                    sum+= num;
+                   sum+= num;
                 }
             }
             if (pieces>k){
