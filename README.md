@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aamod81/DSA-LC/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aamod81/DSA-LC/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aamod81/DSA-LC/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
