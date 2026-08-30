@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aamod81/DSA-LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aamod81/DSA-LC/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aamod81/DSA-LC/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aamod81/DSA-LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
