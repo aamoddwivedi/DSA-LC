@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aamod81/DSA-LC/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/aamod81/DSA-LC/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/aamod81/DSA-LC/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aamod81/DSA-LC/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aamod81/DSA-LC/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aamod81/DSA-LC/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/aamod81/DSA-LC/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
@@ -86,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aamod81/DSA-LC/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aamod81/DSA-LC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aamod81/DSA-LC/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
