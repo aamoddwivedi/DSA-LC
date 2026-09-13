@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aamod81/DSA-LC/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/aamoddwivedi/DSA-LC/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aamod81/DSA-LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aamod81/DSA-LC/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/aamoddwivedi/DSA-LC/tree/master/0881-boats-to-save-people) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aamod81/DSA-LC/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/aamod81/DSA-LC/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/aamoddwivedi/DSA-LC/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
