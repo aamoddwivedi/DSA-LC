@@ -10,8 +10,10 @@ class Solution {
             if(rem<0){
                 rem +=k;
             }
-            res += map.getOrDefault(rem,0);
-            map.put(rem,map.getOrDefault(rem,0)+1);
+            if(map.containsKey(rem)){
+                res += map.get(rem);
+            }
+            map.put(rem ,map.getOrDefault(rem,0)+1);
         }
         return res;
     }
