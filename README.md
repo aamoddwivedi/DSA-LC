@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aamoddwivedi/DSA-LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/aamoddwivedi/DSA-LC/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
