@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aamoddwivedi/DSA-LC/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/aamoddwivedi/DSA-LC/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aamod81/DSA-LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aamod81/DSA-LC/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/aamoddwivedi/DSA-LC/tree/master/0881-boats-to-save-people) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/aamoddwivedi/DSA-LC/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -261,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/aamoddwivedi/DSA-LC/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
