@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aamod81/DSA-LC/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aamod81/DSA-LC/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
@@ -250,9 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
