@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/aamoddwivedi/DSA-LC/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/aamoddwivedi/DSA-LC/tree/master/1189-maximum-number-of-balloons) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aamod81/DSA-LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/aamoddwivedi/DSA-LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/aamoddwivedi/DSA-LC/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/aamoddwivedi/DSA-LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/aamoddwivedi/DSA-LC/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
