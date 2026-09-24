@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aamod81/DSA-LC/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aamoddwivedi/DSA-LC/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aamod81/DSA-LC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aamod81/DSA-LC/tree/master/0287-find-the-duplicate-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aamoddwivedi/DSA-LC/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aamoddwivedi/DSA-LC/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aamod81/DSA-LC/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aamoddwivedi/DSA-LC/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -299,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/aamoddwivedi/DSA-LC/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/aamoddwivedi/DSA-LC/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aamoddwivedi/DSA-LC/tree/master/2487-remove-nodes-from-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
