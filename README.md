@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aamod81/DSA-LC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aamod81/DSA-LC/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/aamod81/DSA-LC/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aamoddwivedi/DSA-LC/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aamoddwivedi/DSA-LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/aamoddwivedi/DSA-LC/tree/master/0409-longest-palindrome) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/aamoddwivedi/DSA-LC/tree/master/0881-boats-to-save-people) |
@@ -186,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aamod81/DSA-LC/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aamoddwivedi/DSA-LC/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aamoddwivedi/DSA-LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/aamoddwivedi/DSA-LC/tree/master/1189-maximum-number-of-balloons) |
@@ -306,8 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
