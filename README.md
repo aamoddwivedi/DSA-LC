@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aamoddwivedi/DSA-LC/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aamod81/DSA-LC/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/aamod81/DSA-LC/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aamod81/DSA-LC/tree/master/0189-rotate-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aamoddwivedi/DSA-LC/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aamoddwivedi/DSA-LC/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/aamoddwivedi/DSA-LC/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/aamoddwivedi/DSA-LC/tree/master/0061-rotate-list) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aamoddwivedi/DSA-LC/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aamoddwivedi/DSA-LC/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/aamoddwivedi/DSA-LC/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0203-remove-linked-list-elements) |
