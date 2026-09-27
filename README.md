@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aamod81/DSA-LC/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aamoddwivedi/DSA-LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/aamoddwivedi/DSA-LC/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aamod81/DSA-LC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aamod81/DSA-LC/tree/master/0287-find-the-duplicate-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aamoddwivedi/DSA-LC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aamoddwivedi/DSA-LC/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/aamoddwivedi/DSA-LC/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aamoddwivedi/DSA-LC/tree/master/0383-ransom-note) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aamoddwivedi/DSA-LC/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aamod81/DSA-LC/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/aamoddwivedi/DSA-LC/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
