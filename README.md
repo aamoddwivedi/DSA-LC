@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aamoddwivedi/DSA-LC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aamod81/DSA-LC/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2235-add-two-integers](https://github.com/aamoddwivedi/DSA-LC/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
