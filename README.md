@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aamoddwivedi/DSA-LC/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aamoddwivedi/DSA-LC/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aamod81/DSA-LC/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/aamoddwivedi/DSA-LC/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aamoddwivedi/DSA-LC/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aamoddwivedi/DSA-LC/tree/master/0160-intersection-of-two-linked-lists) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aamoddwivedi/DSA-LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/aamoddwivedi/DSA-LC/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aamoddwivedi/DSA-LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
