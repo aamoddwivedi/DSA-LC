@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/aamoddwivedi/DSA-LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aamoddwivedi/DSA-LC/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aamod81/DSA-LC/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aamod81/DSA-LC/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aamod81/DSA-LC/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aamoddwivedi/DSA-LC/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aamoddwivedi/DSA-LC/tree/master/0692-top-k-frequent-words) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aamoddwivedi/DSA-LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aamoddwivedi/DSA-LC/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/aamoddwivedi/DSA-LC/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0767-reorganize-string) |
