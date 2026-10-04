@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/aamoddwivedi/DSA-LC/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/aamod81/DSA-LC/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/aamoddwivedi/DSA-LC/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aamoddwivedi/DSA-LC/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aamoddwivedi/DSA-LC/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aamoddwivedi/DSA-LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aamod81/DSA-LC/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/aamoddwivedi/DSA-LC/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0630-course-schedule-iii) |
+| [0678-valid-parenthesis-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/aamoddwivedi/DSA-LC/tree/master/0881-boats-to-save-people) |
 ## Prefix Sum
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aamoddwivedi/DSA-LC/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/aamoddwivedi/DSA-LC/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/aamoddwivedi/DSA-LC/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/aamoddwivedi/DSA-LC/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
