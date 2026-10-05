@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/aamoddwivedi/DSA-LC/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0767-reorganize-string) |
+| [0856-score-of-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/aamoddwivedi/DSA-LC/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/aamoddwivedi/DSA-LC/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
