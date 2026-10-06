@@ -522,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/aamoddwivedi/DSA-LC/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
