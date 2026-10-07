@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aamoddwivedi/DSA-LC/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aamoddwivedi/DSA-LC/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aamoddwivedi/DSA-LC/tree/master/0039-combination-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0301-remove-invalid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aamoddwivedi/DSA-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## String Matching
