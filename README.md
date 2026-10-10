@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aamoddwivedi/DSA-LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aamod81/DSA-LC/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/1929-concatenation-of-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/aamoddwivedi/DSA-LC/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aamod81/DSA-LC/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aamoddwivedi/DSA-LC/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/aamoddwivedi/DSA-LC/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aamoddwivedi/DSA-LC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/aamoddwivedi/DSA-LC/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/aamoddwivedi/DSA-LC/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/aamoddwivedi/DSA-LC/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/aamoddwivedi/DSA-LC/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aamoddwivedi/DSA-LC/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Quickselect
