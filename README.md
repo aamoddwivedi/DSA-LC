@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aamod81/DSA-LC/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aamod81/DSA-LC/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/aamoddwivedi/DSA-LC/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aamoddwivedi/DSA-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/aamoddwivedi/DSA-LC/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/aamoddwivedi/DSA-LC/tree/master/0881-boats-to-save-people) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/aamoddwivedi/DSA-LC/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/aamoddwivedi/DSA-LC/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/aamoddwivedi/DSA-LC/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0767-reorganize-string) |
