@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/aamoddwivedi/DSA-LC/tree/master/2233-maximum-product-after-k-increments) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aamoddwivedi/DSA-LC/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aamod81/DSA-LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -566,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/aamoddwivedi/DSA-LC/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/aamoddwivedi/DSA-LC/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aamoddwivedi/DSA-LC/tree/master/1757-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
