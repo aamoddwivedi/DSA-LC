@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/aamoddwivedi/DSA-LC/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/aamoddwivedi/DSA-LC/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aamoddwivedi/DSA-LC/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aamoddwivedi/DSA-LC/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/aamoddwivedi/DSA-LC/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aamoddwivedi/DSA-LC/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/aamoddwivedi/DSA-LC/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aamoddwivedi/DSA-LC/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aamoddwivedi/DSA-LC/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aamoddwivedi/DSA-LC/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2233-maximum-product-after-k-increments](https://github.com/aamoddwivedi/DSA-LC/tree/master/2233-maximum-product-after-k-increments) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/aamoddwivedi/DSA-LC/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/aamod81/DSA-LC/tree/master/0977-squares-of-a-sorted-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aamoddwivedi/DSA-LC/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/aamoddwivedi/DSA-LC/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/aamoddwivedi/DSA-LC/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/aamoddwivedi/DSA-LC/tree/master/1046-last-stone-weight) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aamoddwivedi/DSA-LC/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aamoddwivedi/DSA-LC/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2233-maximum-product-after-k-increments](https://github.com/aamoddwivedi/DSA-LC/tree/master/2233-maximum-product-after-k-increments) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
