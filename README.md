@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aamoddwivedi/DSA-LC/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aamoddwivedi/DSA-LC/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aamod81/DSA-LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aamoddwivedi/DSA-LC/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/aamoddwivedi/DSA-LC/tree/master/1189-maximum-number-of-balloons) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aamoddwivedi/DSA-LC/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aamod81/DSA-LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aamoddwivedi/DSA-LC/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2233-maximum-product-after-k-increments](https://github.com/aamoddwivedi/DSA-LC/tree/master/2233-maximum-product-after-k-increments) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aamoddwivedi/DSA-LC/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/aamod81/DSA-LC/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aamod81/DSA-LC/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aamoddwivedi/DSA-LC/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
