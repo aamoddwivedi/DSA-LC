@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/aamoddwivedi/DSA-LC/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/aamoddwivedi/DSA-LC/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aamoddwivedi/DSA-LC/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aamoddwivedi/DSA-LC/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/aamoddwivedi/DSA-LC/tree/master/1672-richest-customer-wealth) |
@@ -303,10 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aamod81/DSA-LC/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aamod81/DSA-LC/tree/master/0048-rotate-image) |
+| [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/aamoddwivedi/DSA-LC/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aamoddwivedi/DSA-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/aamoddwivedi/DSA-LC/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aamoddwivedi/DSA-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
 ## String Matching
 |  |
 | ------- |
