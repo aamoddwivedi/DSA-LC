@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aamoddwivedi/DSA-LC/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aamoddwivedi/DSA-LC/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aamoddwivedi/DSA-LC/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/aamoddwivedi/DSA-LC/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aamoddwivedi/DSA-LC/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aamod81/DSA-LC/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/aamod81/DSA-LC/tree/master/0118-pascals-triangle) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aamod81/DSA-LC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aamod81/DSA-LC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/aamoddwivedi/DSA-LC/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aamod81/DSA-LC/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aamod81/DSA-LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aamod81/DSA-LC/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/aamoddwivedi/DSA-LC/tree/master/0074-search-a-2d-matrix) |
 | [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/aamoddwivedi/DSA-LC/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
