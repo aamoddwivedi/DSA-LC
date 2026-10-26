@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aamod81/DSA-LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aamoddwivedi/DSA-LC/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3886-sum-of-sortable-integers](https://github.com/aamoddwivedi/DSA-LC/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
@@ -305,12 +306,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aamod81/DSA-LC/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aamod81/DSA-LC/tree/master/0048-rotate-image) |
 | [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/aamoddwivedi/DSA-LC/tree/master/1672-richest-customer-wealth) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aamoddwivedi/DSA-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aamoddwivedi/DSA-LC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aamoddwivedi/DSA-LC/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/aamoddwivedi/DSA-LC/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
