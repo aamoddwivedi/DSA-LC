@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aamoddwivedi/DSA-LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/aamoddwivedi/DSA-LC/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aamod81/DSA-LC/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aamoddwivedi/DSA-LC/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/aamod81/DSA-LC/tree/master/0410-split-array-largest-sum) |
@@ -685,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aamoddwivedi/DSA-LC/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aamoddwivedi/DSA-LC/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
