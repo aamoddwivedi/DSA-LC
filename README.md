@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aamod81/DSA-LC/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aamod81/DSA-LC/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/aamod81/DSA-LC/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aamoddwivedi/DSA-LC/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/aamoddwivedi/DSA-LC/tree/master/0502-ipo) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aamod81/DSA-LC/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aamoddwivedi/DSA-LC/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/aamod81/DSA-LC/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/aamoddwivedi/DSA-LC/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aamoddwivedi/DSA-LC/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aamod81/DSA-LC/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
