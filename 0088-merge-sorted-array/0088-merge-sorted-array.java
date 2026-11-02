@@ -18,7 +18,7 @@ class Solution {
             k--;
         }
 
-        // Copy remaining elements of nums2
+       
         while (j >= 0) {
             nums1[k] = nums2[j];
             j--;
