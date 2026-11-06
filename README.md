@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/aamoddwivedi/DSA-LC/tree/master/2233-maximum-product-after-k-increments) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aamoddwivedi/DSA-LC/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2747-count-zero-request-servers](https://github.com/aamoddwivedi/DSA-LC/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aamoddwivedi/DSA-LC/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aamoddwivedi/DSA-LC/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aamoddwivedi/DSA-LC/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aamoddwivedi/DSA-LC/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/aamoddwivedi/DSA-LC/tree/master/1189-maximum-number-of-balloons) |
+| [2747-count-zero-request-servers](https://github.com/aamoddwivedi/DSA-LC/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aamoddwivedi/DSA-LC/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aamoddwivedi/DSA-LC/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aamoddwivedi/DSA-LC/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/aamoddwivedi/DSA-LC/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aamoddwivedi/DSA-LC/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aamoddwivedi/DSA-LC/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/aamoddwivedi/DSA-LC/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aamoddwivedi/DSA-LC/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/aamoddwivedi/DSA-LC/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aamoddwivedi/DSA-LC/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/aamoddwivedi/DSA-LC/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/aamoddwivedi/DSA-LC/tree/master/0904-fruit-into-baskets) |
+| [2747-count-zero-request-servers](https://github.com/aamoddwivedi/DSA-LC/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/aamoddwivedi/DSA-LC/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
